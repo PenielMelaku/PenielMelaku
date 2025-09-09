@@ -38,8 +38,8 @@ With a strong passion for technology and skills in malware analysis, vulnerabili
 
 - **Name**: Pie  
 - **Bug Hunter** | **Security Researcher** | **Forensics Enthusiast**  
-- Experience in **Reverse Engineering**, **Malware Analysis**, **Social Engineering**  
-- Currently improving knowledge in **Web App Vulnerabilities & Pentesting**  
+- Experience in **web Vulnerability**, **Reverse Engineering**, **Social Engineering**  
+- Currently improving knowledge in **Malware Analysis**  
 - Lifelong learner — always exploring **everything**  
 
 </details>
@@ -51,8 +51,7 @@ With a strong passion for technology and skills in malware analysis, vulnerabili
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still learning Bug Hunting & Malware Forensics.  
-👉 Managing Tech Communities & creating content.  
+👉 Still learning Bug Hunting & Malware Forensics.    
 👉 Writing useful tools for myself & the community.  
 👉 Building & contributing to Open Source projects.  
 👉 Currently learning Mobile Pentesting & Web3.  
@@ -99,9 +98,6 @@ With a strong passion for technology and skills in malware analysis, vulnerabili
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Pie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Pie&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/Pie/github-readme-stats)  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Pie&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)  
- <p align="left"><a href="https://github.com/Pie/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pie&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 ---
 
