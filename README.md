@@ -105,7 +105,7 @@ With a strong passion for technology and skills in malware analysis, vulnerabili
 
 ```bash
 pie@github:~$ whoami
-> Hacker | Security Researcher | Cybersecurity Enthusiast
+> Hacker | Security Researcher | Cybersecurity and Algo Enthusiast
 
 pie@github:~$ skills --list
 > Reverse Engineering, Bug Hunting, Forensics, Malware Analysis
