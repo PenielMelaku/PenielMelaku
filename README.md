@@ -43,32 +43,40 @@ Security researcher with hands-on experience in **web application pentesting**, 
 
 ### `$ ./skills --verbose`
 
-**Exploitation & Research**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&color=1a1a1a&labelColor=FF6633)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=flat-square&color=1a1a1a)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&color=1a1a1a&labelColor=1679A7)
-![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square&color=1a1a1a)
-![ffuf](https://img.shields.io/badge/ffuf-grey?style=flat-square&color=1a1a1a)
-![SQLMap](https://img.shields.io/badge/SQLMap-red?style=flat-square&color=1a1a1a)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&color=1a1a1a&labelColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&color=1a1a1a&labelColor=4EAA25)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&color=1a1a1a&labelColor=00ADD8)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&color=1a1a1a&labelColor=00599C)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&color=1a1a1a&labelColor=F7DF1E)
-
-**Platforms & OS**
-
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&color=1a1a1a&labelColor=557C94)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8E8F?style=flat-square&color=1a1a1a)
-![BlackArch](https://img.shields.io/badge/BlackArch-0A0A0A?style=flat-square&color=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&color=1a1a1a&labelColor=2496ED)
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>🔴 Exploitation & Research</h4>
+      <img src="https://img.shields.io/badge/Burp_Suite-1a1a1a?style=flat-square&logo=burp-suite&logoColor=FF6633"/>
+      <img src="https://img.shields.io/badge/Metasploit-1a1a1a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=flat-square&logo=wireshark&logoColor=1679A7"/>
+      <img src="https://img.shields.io/badge/Nmap-1a1a1a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ffuf-1a1a1a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLMap-1a1a1a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/amass-1a1a1a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/subfinder-1a1a1a?style=flat-square&logoColor=white"/>
+    </td>
+    <td valign="top" width="33%">
+      <h4>💻 Languages</h4>
+      <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB"/>
+      <img src="https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=4EAA25"/>
+      <img src="https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=00ADD8"/>
+      <img src="https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=00599C"/>
+      <img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=F34B7F"/>
+      <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🖥️ Platforms & OS</h4>
+      <img src="https://img.shields.io/badge/Kali_Linux-1a1a1a?style=flat-square&logo=kalilinux&logoColor=557C94"/>
+      <img src="https://img.shields.io/badge/Parrot_OS-1a1a1a?style=flat-square&logoColor=2E8E8F"/>
+      <img src="https://img.shields.io/badge/BlackArch-1a1a1a?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624"/>
+    </td>
+  </tr>
+</table>
 
 ---
-
 ### `$ cat methodology.md`
 
 ```
@@ -107,8 +115,8 @@ Stay curious. Stay persistent. Never stop learning.
 ```
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38C2FF"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=38C2FF"/></a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38C2FF"/></a>
-  <a href="https://app.hackthebox.com/users/YOUR_ID"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38C2FF"/></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=38C2FF"/></a>
+  <a href="https://www.linkedin.com/in/peniel-melaku-974360330"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38C2FF"/></a>
+  <a href="https://app.hackthebox.com/users/2076259"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
 </div>
