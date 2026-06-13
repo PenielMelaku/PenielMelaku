@@ -3,7 +3,7 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
 │  root@github:~# whoami                                               │
-│  > Pie — Penetration Tester · Security Researcher · Bug Hunter       │
+│  > 0xPi — Penetration Tester · Security Researcher · Bug Hunter       │
 │  root@github:~# _                                                    │
 └──────────────────────────────────────────────────────────────────────┘
 ```
