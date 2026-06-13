@@ -1,114 +1,114 @@
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  root@github:~# whoami                                               │
+│  > Pie — Penetration Tester · Security Researcher · Bug Hunter       │
+│  root@github:~# _                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<img align="right" width="36%" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+
+### `$ cat about.txt`
+
+I break things so others can build them better.  
+Security researcher with hands-on experience in **web application pentesting**, **API security**, **malware analysis**, and **reverse engineering**. Currently chasing certs and CVEs in equal measure.
+
+- 🔴 Red team mindset, blue team awareness  
+- 🕷️ Web vulns · API abuse · Bug bounty hunting  
+- 🧬 Malware analysis & forensics  
+- 📱 Currently diving into **Mobile Pentesting** & **Web3 security**  
+- 🎯 Working toward: HTB CPTS
+
+> *"The quieter you become, the more you can hear."*
+
+---
+
+### `$ cat current_ops.txt`
+
+```diff
++ Hunting bugs in wild targets
++ Building recon & exploitation tools
++ Grinding HackTheBox labs
++ Contributing to open-source security projects
+- Sleep (optional)
+```
+
+---
+
+### `$ ./skills --verbose`
+
+**Exploitation & Research**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&color=1a1a1a&labelColor=FF6633)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=flat-square&color=1a1a1a)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&color=1a1a1a&labelColor=1679A7)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square&color=1a1a1a)
+![ffuf](https://img.shields.io/badge/ffuf-grey?style=flat-square&color=1a1a1a)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=flat-square&color=1a1a1a)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&color=1a1a1a&labelColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&color=1a1a1a&labelColor=4EAA25)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&color=1a1a1a&labelColor=00ADD8)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&color=1a1a1a&labelColor=00599C)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&color=1a1a1a&labelColor=F7DF1E)
+
+**Platforms & OS**
+
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&color=1a1a1a&labelColor=557C94)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8E8F?style=flat-square&color=1a1a1a)
+![BlackArch](https://img.shields.io/badge/BlackArch-0A0A0A?style=flat-square&color=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&color=1a1a1a&labelColor=2496ED)
+
+---
+
+### `$ cat methodology.md`
+
+```
+RECON  ──►  ENUM  ──►  EXPLOIT  ──►  POST-EXPLOIT  ──►  REPORT
+  │            │            │               │                │
+amass       ffuf        Burp Suite      privilege         findings
+subfinder   nmap        Metasploit      escalation        + PoC
+shodan      dirb        custom scripts  persistence       writeup
+```
+
+---
+
+### `$ tail -f /var/log/github_activity.log`
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Pie+%3C3;Welcome+to+my+profile!" alt="Title"></img>
-  </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0d1117&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=for-the-badge&color=00FF00&logo=hackerone" />
-  <img src="https://img.shields.io/badge/Mindset-Never%20Give%20Up-critical?style=for-the-badge&color=FF0000&logo=matrix" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blueviolet?style=for-the-badge&logo=protonvpn" />
-</p>
+### `$ cat /etc/motd`
 
+```
+Stay curious. Stay persistent. Never stop learning.
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+          ██████╗ ██╗███████╗
+          ██╔══██╗██║██╔════╝
+          ██████╔╝██║█████╗  
+          ██╔═══╝ ██║██╔══╝  
+          ██║     ██║███████╗
+          ╚═╝     ╚═╝╚══════╝
+```
 
-<h2 align="left">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
-
-I'm **Pie**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter.  
-With a strong passion for technology and skills in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
-
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/63/6399c529ff3a4a7f27c7477d2aaae2e3.gif" width="80%" />
-</p>
-
-<details>
-  <summary>More about me</summary>
-
-- **Name**: Pie  
-- **Bug Hunter** | **Security Researcher** | **Forensics Enthusiast**  
-- Experience in **web Vulnerability**, **Reverse Engineering**, **Social Engineering**  
-- Currently improving knowledge in **Malware Analysis**  
-- Lifelong learner — always exploring **everything**  
-
-</details>
-<br>
-
----
-
-<h2 id="present_status"> Present Status </h3>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-👉 Still learning Bug Hunting & Malware Forensics.    
-👉 Writing useful tools for myself & the community.  
-👉 Building & contributing to Open Source projects.  
-👉 Currently learning Mobile Pentesting & Web3.  
-
-`Updating:` Journey to Cybersecurity Specialist.
-
----
-
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
-      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
-      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-  </div>
+<div align="center">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38C2FF"/></a>
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=38C2FF"/></a>
+  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38C2FF"/></a>
+  <a href="https://app.hackthebox.com/users/YOUR_ID"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
 </div>
-
----
-
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-
----
-
-<h2> Hacker Terminal 💻 </h2>
-
-```bash
-pie@github:~$ whoami
-> Hacker | Security Researcher | Cybersecurity and Algo Enthusiast
-
-pie@github:~$ skills --list
-> Reverse Engineering, Bug Hunting, Forensics, Malware Analysis
-
-pie@github:~$ motto
-> "Stay curious. Stay secure."
