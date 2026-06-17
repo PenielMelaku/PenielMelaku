@@ -1,4 +1,4 @@
-<!-- README: Premium, minimal, futuristic theme -->
+
 <p align="center">
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjRkY2QjZCIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBBcnQ/karasha.png" width="350" alt="Hacking is Art" />
 </p>
@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/penielmelaku"><img src="https://img.shields.io/badge/GitHub-penielmelaku-0d1117?style=for-the-badge&logo=github&logoColor=FF4D4D" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/peniel-melaku-974360330"><img src="https://img.shields.io/badge/LinkedIn-penielmelaku-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF4D4D" alt="LinkedIn" /></a>
-  <a href="https://www.hackthebox.com/profile/2076259"><img src="https://img.shields.io/badge/HackTheBox-penielmelaku-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF4D4D" alt="HackTheBox" /></a>
+  <a href="https://app.hackthebox.com/users/2076259"><img src="https://img.shields.io/badge/HackTheBox-penielmelaku-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF4D4D" alt="HackTheBox" /></a>
 </p>
 
 ---
