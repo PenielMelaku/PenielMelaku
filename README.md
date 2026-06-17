@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/penielmelaku"><img src="https://img.shields.io/badge/GitHub-penielmelaku-0d1117?style=for-the-badge&logo=github&logoColor=FF4D4D" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/peniel-melaku-974360330"><img src="https://img.shields.io/badge/LinkedIn-penielmelaku-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF4D4D" alt="LinkedIn" /></a>
-  <a href="https://www.hackthebox.com/profile/YOUR_ID"><img src="https://img.shields.io/badge/HackTheBox-penielmelaku-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF4D4D" alt="HackTheBox" /></a>
+  <a href="https://www.hackthebox.com/profile/2076259"><img src="https://img.shields.io/badge/HackTheBox-penielmelaku-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF4D4D" alt="HackTheBox" /></a>
 </p>
 
 ---
@@ -92,7 +92,7 @@ flowchart LR
 ## Contact
 - GitHub: https://github.com/penielmelaku  
 - LinkedIn: https://www.linkedin.com/in/peniel-melaku-974360330  
-- HackTheBox: https://www.hackthebox.com/profile/YOUR_ID
+- HackTheBox: https://www.hackthebox.com/profile/2076259
 
 ---
 
