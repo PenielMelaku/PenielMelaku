@@ -92,7 +92,7 @@ flowchart LR
 ## Contact
 - GitHub: https://github.com/penielmelaku  
 - LinkedIn: https://www.linkedin.com/in/peniel-melaku-974360330  
-- HackTheBox: https://www.hackthebox.com/profile/2076259
+- HackTheBox: https://app.hackthebox.com/users/2076259
 
 ---
 
