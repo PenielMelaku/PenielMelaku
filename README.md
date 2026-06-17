@@ -1,122 +1,95 @@
-<div align="center">
+<!-- README: Premium, minimal, futuristic theme -->
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjRkY2QjZCIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBBcnQ/karasha.png" width="350" alt="Hacking is Art" />
+</p>
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  root@github:~# whoami                                               │
-│  > 0xPi — Penetration Tester · Security Researcher · Bug Hunter       │
-│  root@github:~# _                                                    │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiNGRjRENEQiLCJiZ2MiOiIjMDQwNDE0IiwidCI6MX0/UGVuaWVsIE1lbGFrdQ/karasha.png" alt="Peniel Melaku" width="520" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=540&lines=HAXOR;Security+Researcher;Web+App+Pentester" alt="typing" />
+</p>
 
----
+<p align="center"><strong style="color:#FF4D4D">I break things so others can build them better.</strong></p>
 
-<img align="right" width="36%" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
-
-### `$ cat about.txt`
-
-I break things so others can build them better.  
-Security researcher with hands-on experience in **web application pentesting**, **API security**, **malware analysis**, and **reverse engineering**. Currently chasing certs and CVEs in equal measure.
-
-- 🔴 Red team mindset, blue team awareness  
-- 🕷️ Web vulns · API abuse · Bug bounty hunting  
-- 🧬 Malware analysis & forensics  
-- 📱 Currently diving into **Mobile Pentesting** & **Web3 security**  
-- 🎯 Working toward: HTB CPTS
-
-> *"The quieter you become, the more you can hear."*
+<p align="center">
+  <a href="https://github.com/penielmelaku"><img src="https://img.shields.io/badge/GitHub-penielmelaku-0d1117?style=for-the-badge&logo=github&logoColor=FF4D4D" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/peniel-melaku-974360330"><img src="https://img.shields.io/badge/LinkedIn-penielmelaku-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF4D4D" alt="LinkedIn" /></a>
+  <a href="https://www.hackthebox.com/profile/YOUR_ID"><img src="https://img.shields.io/badge/HackTheBox-penielmelaku-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF4D4D" alt="HackTheBox" /></a>
+</p>
 
 ---
 
-### `$ cat current_ops.txt`
-
-```diff
-+ Hunting bugs in wild targets
-+ Building recon & exploitation tools
-+ Grinding HackTheBox labs
-+ Contributing to open-source security projects
-- Sleep (optional)
-```
+## About
+- Cybersecurity student focused on practical web application pentesting and security research.  
+- I build automation and tools that scale recon and analysis workflows.  
+- Confident, disciplined, and learning continuously (HTB CPTS — in progress; Top 5% TryHackMe).
 
 ---
 
-### `$ ./skills --verbose`
+## Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FF4D4D" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=FF4D4D" alt="Bash" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=FF4D4D" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=FF4D4D" alt="Java" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FF4D4D" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=FF4D4D" alt="Docker" />
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>🔴 Exploitation & Research</h4>
-      <img src="https://img.shields.io/badge/Burp_Suite-1a1a1a?style=flat-square&logo=burp-suite&logoColor=FF6633"/>
-      <img src="https://img.shields.io/badge/Metasploit-1a1a1a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=flat-square&logo=wireshark&logoColor=1679A7"/>
-      <img src="https://img.shields.io/badge/Nmap-1a1a1a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ffuf-1a1a1a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLMap-1a1a1a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/amass-1a1a1a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/subfinder-1a1a1a?style=flat-square&logoColor=white"/>
-    </td>
-    <td valign="top" width="33%">
-      <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB"/>
-      <img src="https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=4EAA25"/>
-      <img src="https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=00ADD8"/>
-      <img src="https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=00599C"/>
-      <img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=F34B7F"/>
-      <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-    </td>
-    <td valign="top" width="33%">
-      <h4>🖥️ Platforms & OS</h4>
-      <img src="https://img.shields.io/badge/Kali_Linux-1a1a1a?style=flat-square&logo=kalilinux&logoColor=557C94"/>
-      <img src="https://img.shields.io/badge/Parrot_OS-1a1a1a?style=flat-square&logoColor=2E8E8F"/>
-      <img src="https://img.shields.io/badge/BlackArch-1a1a1a?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED"/>
-      <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF4D4D" alt="Burp" />
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=FF4D4D" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=FF4D4D" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=FF4D4D" alt="Metasploit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=FF4D4D" alt="OWASP" />
+  <img src="https://img.shields.io/badge/MITRE_ATTACK-0d1117?style=for-the-badge&logo=mitre&logoColor=FF4D4D" alt="MITRE ATT&CK" />
+</p>
 
 ---
-### `$ cat methodology.md`
 
-```
-RECON  ──►  ENUM  ──►  EXPLOIT  ──►  POST-EXPLOIT  ──►  REPORT
-  │            │            │               │                │
-amass       ffuf        Burp Suite      privilege         findings
-subfinder   nmap        Metasploit      escalation        + PoC
-shodan      dirb        custom scripts  persistence       writeup
+## Current Focus
+- HTB CPTS (certification path)  
+- Building security tools & automation  
+- CTFs — practice and writeups  
+- Bug hunting and responsible disclosure
+
+---
+
+## Featured Projects
+- [Recon Tool](#) — lightweight, fast domain & subdomain reconnaissance (placeholder).  
+- [API Security Scanner](#) — focused checks for common API misconfigurations (placeholder).  
+- [Security Automation](#) — orchestration for repeatable test pipelines (placeholder).  
+- [CTF Writeups](#) — curated walkthroughs and tooling notes (placeholder).
+
+---
+
+## Methodology
+```mermaid
+flowchart LR
+  Recon[Recon] --> Enum[Enumeration]
+  Enum --> Expl[Exploitation]
+  Expl --> Report[Reporting]
 ```
 
 ---
 
-### `$ tail -f /var/log/github_activity.log`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0d1117&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+## Achievements
+- [HTB CPTS] — in progress.  
+- Top 5% on TryHackMe.  
+- Multiple accepted responsible disclosures (private).  
 
 ---
 
-### `$ cat /etc/motd`
+## Contact
+- GitHub: https://github.com/penielmelaku  
+- LinkedIn: https://www.linkedin.com/in/peniel-melaku-974360330  
+- HackTheBox: https://www.hackthebox.com/profile/YOUR_ID
 
-```
-Stay curious. Stay persistent. Never stop learning.
+---
 
-          ██████╗ ██╗███████╗
-          ██╔══██╗██║██╔════╝
-          ██████╔╝██║█████╗  
-          ██╔═══╝ ██║██╔══╝  
-          ██║     ██║███████╗
-          ╚═╝     ╚═╝╚══════╝
-```
-
-<div align="center">
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38C2FF"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=38C2FF"/></a>
-  <a href="https://www.linkedin.com/in/peniel-melaku-974360330"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38C2FF"/></a>
-  <a href="https://app.hackthebox.com/users/2076259"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
-</div>
+> "The quieter you become, the more you can hear."
