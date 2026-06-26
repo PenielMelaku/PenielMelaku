@@ -22,14 +22,14 @@
   <a href="https://app.hackthebox.com/users/2076259"><img src="https://img.shields.io/badge/HackTheBox-penielmelaku-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF4D4D" alt="HackTheBox" /></a>
 </p>
 
----
+--
 
 ## About
 - Cybersecurity student focused on practical web application pentesting and security research.  
 - I build automation and tools that scale recon and analysis workflows.  
 - Confident, disciplined, and learning continuously (HTB CPTS — in progress; Top 5% TryHackMe).
 
----
+--
 
 ## Tech Stack
 <p align="center">
