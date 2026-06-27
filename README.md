@@ -61,7 +61,7 @@
 - CTFs — practice and writeups  
 - Bug hunting and responsible disclosure
 
----
+--
 
 ## Featured Projects
 - [Recon Tool](#) — lightweight, fast domain & subdomain reconnaissance (placeholder).  
