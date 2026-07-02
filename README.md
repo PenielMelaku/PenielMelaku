@@ -83,7 +83,7 @@ flowchart LR
 
 ## Achievements
 - [HTB CPTS] — in progress.  
-- Top 5% on TryHackMe.  
+- Top 1% on TryHackMe.  
 - Multiple accepted responsible disclosures (private).  
 
 ---
