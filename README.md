@@ -69,7 +69,7 @@
 - [Security Automation](#) — orchestration for repeatable test pipelines (placeholder).  
 - [CTF Writeups](#) — curated walkthroughs and tooling notes (placeholder).
 
---
+---
 
 ## Methodology
 ```mermaid
