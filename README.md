@@ -22,7 +22,7 @@
   <a href="https://app.hackthebox.com/users/2076259"><img src="https://img.shields.io/badge/HackTheBox-penielmelaku-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF4D4D" alt="HackTheBox" /></a>
 </p>
 
---
+---
 
 ## About
 - Cybersecurity student focused on practical web application pentesting and security research.  
