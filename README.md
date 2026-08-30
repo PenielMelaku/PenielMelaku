@@ -85,7 +85,7 @@ flowchart LR
 - Top 1% on TryHackMe.  
 - Multiple accepted responsible disclosures (private).  
 
----
+
 
 ## Contact
 - GitHub: https://github.com/penielmelaku  
