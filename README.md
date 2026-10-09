@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="./lazarus.png" width="220" alt="Lazarus" style="filter: drop-shadow(0 0 15px rgba(229, 9, 20, 0.7));" />
+  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/373aab94-809d-44dc-95d8-0172b436cee3" />
+" width="220" alt="Lazarus" style="filter: drop-shadow(0 0 15px rgba(229, 9, 20, 0.7));" />
 </p>
 
 <p align="center">
