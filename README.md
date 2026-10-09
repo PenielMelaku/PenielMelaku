@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ade6d66a-c784-4171-83ae-37063a443bc4" width="220" alt="Lazarus" style="filter: drop-shadow(0 0 15px rgba(229, 9, 20, 0.7));" />
 </p>
+<img width="752" height="752" alt="image" src="https://github.com/user-attachments/assets/d6237133-5005-43e2-9fe6-62942f6c9017" />
 
 <p align="center">
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiNGRjRENEQiLCJiZ2MiOiIjMDQwNDE0IiwidCI6MX0/UGVuaWVsIE1lbGFrdQ/karasha.png" alt="Peniel Melaku" width="520" />
