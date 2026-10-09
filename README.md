@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ade6d66a-c784-4171-83ae-37063a443bc4" width="220" alt="Lazarus" style="filter: drop-shadow(0 0 15px rgba(229, 9, 20, 0.7));" />
 </p>
-<img width="752" height="752" alt="image" src="https://github.com/user-attachments/assets/a4a72463-9a3b-4655-b0c5-3bbd079de704" />
 
 
 <p align="center">
