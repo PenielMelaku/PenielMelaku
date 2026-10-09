@@ -3,10 +3,8 @@
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjRkY2QjZCIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBBcnQ/karasha.png" width="350" alt="Hacking is Art" />
 </p>
 
-<p align="center">
-  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/373aab94-809d-44dc-95d8-0172b436cee3" />
-" width="220" alt="Lazarus" style="filter: drop-shadow(0 0 15px rgba(229, 9, 20, 0.7));" />
-</p>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ade6d66a-c784-4171-83ae-37063a443bc4" />
+
 
 <p align="center">
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiNGRjRENEQiLCJiZ2MiOiIjMDQwNDE0IiwidCI6MX0/UGVuaWVsIE1lbGFrdQ/karasha.png" alt="Peniel Melaku" width="520" />
