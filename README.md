@@ -23,7 +23,6 @@
 </p>
 
 ---
-
 ## About
 - Cybersecurity student focused on practical web application pentesting and security research.  
 - I build automation and tools that scale recon and analysis workflows.  
