@@ -29,7 +29,6 @@
 - Confident, disciplined, and learning continuously (HTB CPTS — in progress; Top 5% TryHackMe).
 
 
-
 ## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4DFF9D" alt="Python" />
