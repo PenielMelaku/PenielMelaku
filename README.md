@@ -84,7 +84,7 @@ flowchart LR
 
 
 ## Achievements
-- [HTB CPTS] — in progress.  
+- Number one on HTB Ethiopia Leader-board.
 - Top 1% on TryHackMe.  
 - Multiple accepted responsible disclosures (private).  
 
