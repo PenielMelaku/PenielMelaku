@@ -76,9 +76,9 @@
 
 ```mermaid
 flowchart LR
-    A["💻 HACK<br/>"]
-    B["🍜 EAT<br/>"]
-    C["🌙 SLEEP<br/>"]
+    A[" HACK<br/>"]
+    B[" EAT<br/>"]
+    C["SLEEP<br/>"]
     D["⟳ REPEAT<br/>"]
 
     A --> B
