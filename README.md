@@ -78,10 +78,10 @@
 
 ```mermaid
 flowchart TD
-    A["💻 HACK<br/>Find. Exploit. Win."]
-    B["🍜 EAT<br/>Fuel the grind."]
-    C["🌙 SLEEP<br/>Recharge. Recover."]
-    D["⟳ REPEAT<br/>No end. Just progress."]
+    A["💻 HACK<br/>"]
+    B["🍜 EAT<br/>"]
+    C["🌙 SLEEP<br/>"]
+    D["⟳ REPEAT<br/>"]
 
     A --> B
     B --> C
