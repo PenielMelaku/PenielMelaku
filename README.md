@@ -103,7 +103,7 @@ VINCERE AUT MORI
 
 ## Achievements
 - Number one on HTB Ethiopia Leader-board.
-- Top 1% on TryHackMe.  
+- Top 1% on HTB.  
 - Multiple accepted responsible disclosures (private).  
 
 
