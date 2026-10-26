@@ -93,11 +93,7 @@ flowchart LR
 ```
 
 ```text
-root@life:~$ hack
-[+] BETTER TOOLS
-[+] BIGGER DREAMS
-[+] SAME MISSION
-
+root@life:~$ hack for the love of the GAME.
 VINCERE AUT MORI
 ```
 
