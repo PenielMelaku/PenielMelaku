@@ -24,9 +24,9 @@
 
 ---
 ## About
-- Cybersecurity student focused on practical web application pentesting and security research.  
+- security researcher.  
 - I build automation and tools that scale recon and analysis workflows.  
-- Confident, disciplined, and learning continuously (HTB CPTS — in progress; Top 5% TryHackMe).
+- Confident, disciplined.
 
 
 ## Tech Stack
@@ -71,13 +71,21 @@
 
 ---
 
-## Methodology
-```mermaid
+
 flowchart LR
-  Recon[Recon] --> Enum[Enumeration]
-  Enum --> Expl[Exploitation]
-  Expl --> Report[Reporting]
-```
+    A["💻 HACK<br/>Find. Exploit. Win."]
+    B["🍜 EAT<br/>Fuel the grind."]
+    C["🌙 SLEEP<br/>Recharge. Recover."]
+    D["⟳ REPEAT<br/>No end. Just progress."]
+
+    A --> B --> C --> D
+    D --> A
+
+    classDef hacker fill:#100505,stroke:#ff2020,color:#ff4040,stroke-width:2px
+    class A,B,C,D hacker
+
+    linkStyle default stroke:#ff2020,stroke-width:2px
+
 
 
 
