@@ -74,10 +74,8 @@
 
 ## 🔻 METHODOLOGY
 
-> Same cycle. Different targets.
-
 ```mermaid
-flowchart TD
+flowchart LR
     A["💻 HACK<br/>"]
     B["🍜 EAT<br/>"]
     C["🌙 SLEEP<br/>"]
