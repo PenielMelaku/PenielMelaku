@@ -72,19 +72,37 @@
 ---
 
 
-flowchart LR
+## 🔻 METHODOLOGY
+
+> Same cycle. Different targets.
+
+```mermaid
+flowchart TD
     A["💻 HACK<br/>Find. Exploit. Win."]
     B["🍜 EAT<br/>Fuel the grind."]
     C["🌙 SLEEP<br/>Recharge. Recover."]
     D["⟳ REPEAT<br/>No end. Just progress."]
 
-    A --> B --> C --> D
+    A --> B
+    B --> C
+    C --> D
     D --> A
 
     classDef hacker fill:#100505,stroke:#ff2020,color:#ff4040,stroke-width:2px
     class A,B,C,D hacker
 
     linkStyle default stroke:#ff2020,stroke-width:2px
+```
+
+```text
+root@life:~$ hack
+[+] BETTER TOOLS
+[+] BIGGER DREAMS
+[+] SAME MISSION
+
+VINCERE AUT MORI
+```
+
 
 
 
