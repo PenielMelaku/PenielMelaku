@@ -72,7 +72,7 @@
 ---
 
 
-## 🔻 METHODOLOGY
+## METHODOLOGY
 
 ```mermaid
 flowchart LR
