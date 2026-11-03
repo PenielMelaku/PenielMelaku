@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DFF9D&center=true&vCenter=true&width=540&lines=HAXOR;Security+Researcher;Web+App+Pentester" alt="typing" />
 </p>
-t
+
 <p align="center"><strong style="color:#4DFF9D">I break things so others can build them better.</strong></p>
 
 <p align="center">
